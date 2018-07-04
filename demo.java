@@ -32,6 +32,7 @@ System.setProperty("webdriver.chrome.driver","/home/avohi/Downloads/chromedriver
 		
 		}
 	System.out.println("NUMBER OF BUTTONS="+buttons.size());
+		System.out.println("************************");
 		
 	}
 }
