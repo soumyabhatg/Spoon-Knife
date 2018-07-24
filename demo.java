@@ -36,5 +36,6 @@ System.setProperty("webdriver.chrome.driver","/home/avohi/Downloads/chromedriver
 		System.out.println("---------------------");
 		System.out.println(" build triggers ");
 		System.out.println("build trigers successfully");
+		System.out.println("polling");
 	}
 }
